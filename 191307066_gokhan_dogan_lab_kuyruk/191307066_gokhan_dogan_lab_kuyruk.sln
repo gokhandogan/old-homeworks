@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "191307066_gokhan_dogan_lab_kuyruk", "191307066_gokhan_dogan_lab_kuyruk\191307066_gokhan_dogan_lab_kuyruk.vcxproj", "{76478B63-74C1-4869-A0FC-8C160961C8E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Debug|x64.ActiveCfg = Debug|x64
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Debug|x64.Build.0 = Debug|x64
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Debug|x86.Build.0 = Debug|Win32
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Release|x64.ActiveCfg = Release|x64
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Release|x64.Build.0 = Release|x64
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Release|x86.ActiveCfg = Release|Win32
+		{76478B63-74C1-4869-A0FC-8C160961C8E7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6773EA81-AD98-4EA4-B866-C2A9902C2484}
+	EndGlobalSection
+EndGlobal

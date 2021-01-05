@@ -1,0 +1,14 @@
+ahmetSari
+adý: ahmetSari   düzeyi: 0 derinligi: 1
+aliKaya
+adý: aliKaya   düzeyi: 5 derinligi: 0
+asliYel
+adý: asliYel   düzeyi: 2 derinligi: 3
+gokhan
+adý: gokhan   düzeyi: 0 derinligi: 5
+mehmetSaðlam
+adý: mehmetSaðlam   düzeyi: 1 derinligi: 4
+nerimanKoc
+adý: nerimanKoc   düzeyi: 3 derinligi: 2
+selimMert
+adý: selimMert   düzeyi: 4 derinligi: 1

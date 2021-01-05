@@ -1,0 +1,56 @@
+adý:				gokhan
+adres:				istanbul
+telefon:				1026267271
+eposta:				akaya@gmail.com
+dogum_tarihi:			1985
+dil_1:				ingilizce
+dil_2:				fransýzca
+dil_3:				-
+ehliyet_1:				A2
+ehliyet_2:				B
+okul_lise:				galatasaray lisesi
+okul_lisans:			yýldýz teknik üniversitesi
+okul_yuksek_lisans:			yýldýz teknik üniversitesi
+okul_dotora:			boðaziçi üniversitesi
+bolum_lise:			sayýsal
+bolum_lisans:			bilgisayar müh
+bolum_yuksek_lisans:		bilgisayar müh
+bolum_dotora:			bilgisayar müh
+lise_baslangic:			1999
+lise_bitis:				2003
+lisans_baslangic:			2004
+lisans_bitis:			2009
+yuksek_lisans_baslangic:		2010
+yuksek_lisans_bitis:			2013
+dotora_baslangic:			2013
+dotora_bitis:			0
+not_lise:				82
+not_lisans:			80
+not_yuksek_lisans:			95
+not_dotora:			0
+is_deneyim_1:			burger king
+is_deneyim_2:			armada bilgisayar
+is_deneyim_3:			comodo yazýlým aþ
+is_deneyim_4:			destek grup
+is_deneyim_5:			otokar
+is_deneyim_6:			vodafone
+is_adres_1:			istanbul
+is_adres_2:			istanbul
+is_adres_3:			ankara
+is_adres_4:			istanbul-ankara
+is_adres_5:			kocaeli
+is_adres_6:			istanbul
+is_pozisyon_1:			vardiya müdürü
+is_pozisyon_2:			yazýlým uzmaný
+is_pozisyon_3:			front end developer
+is_pozisyon_4:			bilgisayar mühendisi
+is_pozisyon_5:			network ve güvenlik mühendisi
+is_pozisyon_6:			mediation solutions senior specialist
+is_tecrube_1:			2
+is_tecrube_2:			1
+is_tecrube_3:			0.5
+is_tecrube_4:			2
+is_tecrube_6:			1.5
+is_tecrube_6:			1.5
+
+

@@ -1,0 +1,6 @@
+aliKaya
+adı: aliKaya
+ehliyeti:	A2
+ehliyeti:	B
+yaşı:	30
+

@@ -1,0 +1,21 @@
+ahmetSari
+adý:	ahmetSari
+dil	arapça
+dil	ingilizce
+dil	almanca
+
+
+aliKaya
+adý:	aliKaya
+dil	ingilizce
+dil	fransýzca
+dil	-
+
+
+gokhan
+adý:	gokhan
+dil	ingilizce
+dil	fransýzca
+dil	-
+
+

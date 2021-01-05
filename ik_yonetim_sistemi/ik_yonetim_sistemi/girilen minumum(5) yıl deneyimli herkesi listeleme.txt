@@ -1,0 +1,16 @@
+aliKaya
+adı:	aliKaya
+deneyim:	8.5
+
+asliYel
+adı:	asliYel
+deneyim:	24
+
+gokhan
+adı:	gokhan
+deneyim:	8.5
+
+selimMert
+adı:	selimMert
+deneyim:	5
+

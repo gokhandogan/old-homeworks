@@ -1,0 +1,28 @@
+ahmetSari
+adý:	ahmetSari
+lisans:	Yalvaç MYO
+
+aliKaya
+adý:	aliKaya
+lisans:	yýldýz teknik üniversitesi
+
+asliYel
+adý:	asliYel
+lisans:	Orta Doðu Teknik Üniversitesi
+
+gokhan
+adý:	gokhan
+lisans:	yýldýz teknik üniversitesi
+
+mehmetSaðlam
+adý:	mehmetSaðlam
+lisans:	Kocaeli Üniversitesi
+
+nerimanKoc
+adý:	nerimanKoc
+lisans:	Ege Üniversitesi
+
+selimMert
+adý:	selimMert
+lisans:	Marmara Üniversitesi
+
